@@ -16,6 +16,12 @@
 7. **Git checkout**  -  transition save
 8. **Git Diff**  -  difference in file states (changes)
 9. **Tab**  -    Completion
-10. **Untracked fil
 
 # Markdown syntax. **REMEMBER!!!**
+* **Thumbnail** - **
+* *Italic text* - *
+* ~~strikethrough text~~ - ~~
+* ## Header highlighting - # at the beginning of the line
+* Show header level - underlining with **= or -**
+* Numbered lists - indicated by the usual **numbers 1, 2, 3...**
+* Unordered lists - indicated by **signs * at the beginning of the line**
